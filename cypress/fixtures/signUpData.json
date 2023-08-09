@@ -1,0 +1,7 @@
+{
+    "signUp": "#signin2",
+    "userName": "#sign-username",
+    "passWord": "#sign-password",
+    "signUpBtn": "Sign up",
+    "colseBtn": "#signInModal > .modal-dialog > .modal-content > .modal-footer > .btn-secondary"
+}

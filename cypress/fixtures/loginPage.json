@@ -1,0 +1,9 @@
+{
+    "elements":{
+        "signInBtn": "#login2",
+        "userNameField": "#loginusername",
+        "passwordField": "#loginpassword",
+        "loginBtn": "Log in",
+        "logOutBtn": "#logout2"
+    }
+}
