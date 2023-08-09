@@ -48,7 +48,7 @@
 2. Optional: Json-formatter for Native Reporter option (depends on your OS: [json-formatter](https://github.com/cucumber/json-formatter))
 3. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/ricardopolanski/optimhire
+   git clone https://github.com/ricardopolanski/optimhire.git
    ```
 
 ## Install the project
