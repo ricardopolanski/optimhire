@@ -72,7 +72,7 @@
 ```
 
 ### Project structure
-
+<pre>
 cypress
 ├── downloads
 ├── e2e
@@ -94,3 +94,4 @@ cypress
 │   ├── generateRandom.js       - Generate Random User and Password
 │   └── login.js                - Login helper
 └── videos
+</pre>
